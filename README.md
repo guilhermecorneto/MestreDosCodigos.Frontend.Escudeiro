@@ -1,0 +1,1 @@
+# MestreDosCodigos.Frontend.Escudeiro
